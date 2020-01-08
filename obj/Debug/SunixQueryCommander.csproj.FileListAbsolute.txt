@@ -1,9 +1,0 @@
-C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\bin\Debug\SunixQueryCommander.exe.config
-C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\bin\Debug\SunixQueryCommander.exe
-C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\bin\Debug\SunixQueryCommander.pdb
-C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\obj\Debug\SunixQueryCommander.Form1.resources
-C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\obj\Debug\SunixQueryCommander.Properties.Resources.resources
-C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\obj\Debug\SunixQueryCommander.csproj.GenerateResource.Cache
-C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\obj\Debug\SunixQueryCommander.csproj.CoreCompileInputs.cache
-C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\obj\Debug\SunixQueryCommander.exe
-C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\obj\Debug\SunixQueryCommander.pdb
