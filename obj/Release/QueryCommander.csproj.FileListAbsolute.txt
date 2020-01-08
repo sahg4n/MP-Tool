@@ -1,0 +1,15 @@
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\obj\Release\SunixQueryCommander.Form1.resources
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\obj\Release\QueryCommander.Properties.Resources.resources
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\obj\Release\QueryCommander.csproj.GenerateResource.Cache
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\obj\Release\QueryCommander.csproj.CoreCompileInputs.cache
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\bin\Release\InternalTools.exe.config
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\bin\Release\InternalTools.exe
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\bin\Release\InternalTools.pdb
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\bin\Release\AWSSDK.Core.dll
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\bin\Release\AWSSDK.S3.dll
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\bin\Release\AWSSDK.Core.pdb
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\bin\Release\AWSSDK.Core.xml
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\bin\Release\AWSSDK.S3.pdb
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\bin\Release\AWSSDK.S3.xml
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\obj\Release\InternalTools.exe
+C:\Users\nagendra.pancheti\source\repos\Ngrok\SunixQueryCommander\obj\Release\InternalTools.pdb
